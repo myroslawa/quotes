@@ -1,0 +1,29 @@
+# Quotes
+
+**A simple application which returns a selection from the pile of quotes I inputted previously. It provides a output to display in my application everyday!**
+
+# Getting started
+
+download node.js
+
+
+## Usage
+```js
+
+const Quote = require('quotes');
+
+console.log(Quote.getQuote()); // returns quote (text and author)
+console.log(Quote.getQuote({ author: false }); // return quote without author
+console.log(Quote.getRandomQuote()); // return any random quote
+
+```
+
+- ***getQuote()*** method returns an object containing ***text*** and ***author***.
+
+```json
+
+{
+    "text":“I firmly believe that all the best things on earth have been created by brave nerds.”,
+    "author":"Alexei Navalny"
+ }
+ ```
