@@ -22,8 +22,8 @@ console.log(Quote.getRandomQuote()); // return any random quote
 
 ```json
 
-{
-    "text":“I firmly believe that all the best things on earth have been created by brave nerds.”,
+ {  
+    "text":"I firmly believe that all the best things on earth have been created by brave nerds.",
     "author":"Alexei Navalny"
  }
  ```
