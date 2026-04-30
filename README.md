@@ -1,6 +1,6 @@
 # Quotes
 
-**A simple application which returns a selection from the pile of quotes I inputted previously. It provides a output to display in my application everyday!**
+**A simple application which returns a singular selection from the pile of quotes.**
 
 # Getting started
 
